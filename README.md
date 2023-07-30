@@ -5,7 +5,7 @@ CSVupload is a Node.js web application that allows users to upload CSV files, di
 ## Installation
 To run the application, you will need to have Node.js installed on your system. Once you have Node.js installed, you can follow these steps to install and run the application:
 
-1. Clone the repository
+1. Clone the repository: https://github.com/PavanARV/Uploadcsv.git
 2. Install the dependencies: `npm install`
 3. Start the server: `npm start`
 
